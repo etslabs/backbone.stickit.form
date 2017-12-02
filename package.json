@@ -1,0 +1,22 @@
+{
+  "name": "backbone.stickit.form",
+  "version": "1.0.0",
+  "description": "NPM Package",
+  "main": "src/backbone.stickit.form.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etslabs/backbone.stickit.form.git"
+  },
+  "author": "Anders D. Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etslabs/backbone.stickit.form/issues"
+  },
+  "homepage": "https://github.com/etslabs/backbone.stickit.form#readme",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
